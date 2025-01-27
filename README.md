@@ -301,7 +301,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
 *Libraries for storing and parsing configuration options.*
 
-* [configparser](https://docs.python.org/3/library/configparser.html) - (Python standard library) INI file parser.
+* [configparser](https://docs.python.org/3/library/configpa
 * [configobj](https://github.com/DiffSK/configobj) - INI file parser with validation.
 * [hydra](https://github.com/facebookresearch/hydra) - Hydra is a framework for elegantly configuring complex applications.
 * [python-decouple](https://github.com/HBNetwork/python-decouple) - Strict separation of settings from code.
@@ -372,7 +372,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
     * [sqlite-utils](https://github.com/simonw/sqlite-utils) - Python CLI utility and library for manipulating SQLite databases.
 * Other Relational Databases
     * [pymssql](https://github.com/pymssql/pymssql) - A simple database interface to Microsoft SQL Server.
-    * [clickhouse-driver](https://github.com/mymarilyn/clickhouse-driver) - Python driver with native interface for ClickHouse.
+    *
 * NoSQL Databases
     * [cassandra-driver](https://github.com/datastax/python-driver) - The Python Driver for Apache Cassandra.
     * [happybase](https://github.com/python-happybase/happybase) - A developer-friendly library for Apache HBase.
@@ -426,15 +426,15 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
 * Configuration Management
     * [ansible](https://github.com/ansible/ansible) - A radically simple IT automation platform.
-    * [cloudinit](https://github.com/canonical/cloud-init) - A multi-distribution package that handles early initialization of a cloud instance.
+    * [cloudinit](https://github.com/canonical/cloud-init) - A multi-distribution package 
+
     * [openstack](https://www.openstack.org/) - Open source software for building private and public clouds.
     * [pyinfra](https://github.com/pyinfra-dev/pyinfra) - A versatile CLI tools and python libraries to automate infrastructure.
     * [saltstack](https://github.com/saltstack/salt) - Infrastructure automation and management system.
 * SSH-style Deployment
     * [cuisine](https://github.com/sebastien/cuisine) - Chef-like functionality for Fabric.
-    * [fabric](https://github.com/fabric/fabric) - A simple, Pythonic tool for remote execution and deployment.
-* Process Management
-    * [supervisor](https://github.com/Supervisor/supervisor) - Supervisor process control system for UNIX.
+    * [fabric](https://github.com/fabric/fabric) - A simple, Pythonic tool for remote execution and deployment.=* Process Management
+    * [supervisor](https:///Supervisor) - Supervisor process control system for UNIX.
 * Monitoring
     * [psutil](https://github.com/giampaolo/psutil) - A cross-platform process and system utilities module.
 * Backup
@@ -471,13 +471,11 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
     * [awesome-sphinxdoc](https://github.com/yoloseem/awesome-sphinxdoc)
 * [pdoc](https://github.com/mitmproxy/pdoc) - Epydoc replacement to auto generate API documentation for Python libraries.
 
-## Downloader
+#
 
 *Libraries for downloading.*
 
-* [akshare](https://github.com/jindaxiang/akshare) - A financial data interface library, built for human beings!
-* [s3cmd](https://github.com/s3tools/s3cmd) - A command line tool for managing Amazon S3 and CloudFront.
-* [youtube-dl](https://github.com/ytdl-org/youtube-dl/) - A command-line program to download videos from YouTube and other video sites.
+* [](https://github.com/jindaxiang/akshare) - financiadata interface library, built for human beings!m* [s3cmd](https://github.com/s3tools/s3cmd) - A command line tool for managing Amazon S3 and CloudFront* [youtube-dl](https://github.com/ytdl-org/youtube-dl/) - A command-line program to download videos from YouTube and other video sites.
 
 ## Editor Plugins and IDEs
 
@@ -497,11 +495,11 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
 ## Email
 
-*Libraries for sending and parsing email.*
+Libraries for sending and parsing email.*
 
 * Mail Servers
-    * [modoboa](https://github.com/modoboa/modoboa) - A mail hosting and management platform including a modern Web UI.
-    * [salmon](https://github.com/moggers87/salmon) - A Python Mail Server.
+    * [modoboa](https://githu.com/modoboa/modoboa) - A mail hosting and management platform including a modern Web UI.
+    * [salmon](https://github.com//salmon) - A Python Mail Server.
 * Clients
     * [imbox](https://github.com/martinrusev/imbox) - Python IMAP for Humans.
     * [yagmail](https://github.com/kootenpv/yagmail) - Yet another Gmail/SMTP client.
@@ -595,12 +593,11 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 * [bleach](https://github.com/mozilla/bleach) - A whitelist-based HTML sanitization and text linkification library.
 * [cssutils](https://pypi.org/project/cssutils/) - A CSS library for Python.
 * [html5lib](https://github.com/html5lib/html5lib-python) - A standards-compliant library for parsing and serializing HTML documents and fragments.
-* [lxml](http://lxml.de/) - A very fast, easy-to-use and versatile library for handling HTML and XML.
-* [markupsafe](https://github.com/pallets/markupsafe) - Implements a XML/HTML/XHTML Markup safe string for Python.
-* [pyquery](https://github.com/gawel/pyquery) - A jQuery-like library for parsing HTML.
-* [untangle](https://github.com/stchris/untangle) - Converts XML documents to Python objects for easy access.
-* [WeasyPrint](http://weasyprint.org) - A visual rendering engine for HTML and CSS that can export to PDF.
-* [xmldataset](https://xmldataset.readthedocs.io/en/latest/) - Simple XML Parsing.
+* [lxml](http://lxml.de/) - A very , easy-to-use and versatile library for handling HTML and XML.
+* [markupsafe](https://github.com/palletsmarkupsafe) - Implements a XML/HTML/XHTML Markup safe string for Python.
+* [pyquery](https://github.com/gawel/pyquery) A jQuery-like library for parsing HTML.
+* [untangle](https://github.com/stchris/untangle)- Converts XML documents to Python objects for easy access.
+* [WeasyPrint](http://weasyprint.org) - A visual rende engine for HTML and CSS that can export to PDF.* [](https://xmldataset.readthedocs.io/en/latest/) - Simple XML Parsing.
 * [xmltodict](https://github.com/martinblech/xmltodict) - Working with XML feel like you are working with JSON.
 
 ## HTTP Clients
@@ -630,11 +627,10 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 * [pymatting](http://github.com/pymatting/pymatting) - A library for alpha matting.
 * [python-qrcode](https://github.com/lincolnloop/python-qrcode) - A pure Python QR Code generator.
 * [pywal](https://github.com/dylanaraps/pywal) - A tool that generates color schemes from images.
-* [pyvips](https://github.com/libvips/pyvips) - A fast image processing library with low memory needs.
-* [quads](https://github.com/fogleman/Quads) - Computer art based on quadtrees.
-* [scikit-image](http://scikit-image.org/) - A Python library for (scientific) image processing.
-* [thumbor](https://github.com/thumbor/thumbor) - A smart imaging service. It enables on-demand crop, re-sizing and flipping of images.
-* [wand](https://github.com/emcconville/wand) - Python bindings for [MagickWand](http://www.imagemagick.org/script/magick-wand.php), C API for ImageMagick.
+* [pyvips](https://github.com/libvips/pyvips) - A fast image processinglibrary with low memory needs.
+* [quads](https://github.com/fogleman/Quads) - Computer art basedon quadtrees.
+* [scikit-image](http://scikit-image.org/) - A Python library#for (scientifi)image processing.
+* [thumbor](https://github.com/thumbor/thumbor) - A smart imaging service. It enaon-demand crop, re-sizing and flipping of images.* [wand](https://github.com/emcconville/wand) - Python bindings for [MagickWand](http://www.imagemagick.org/script/magick-wand.php), C API for ImageMagick.
 
 ## Implementations
 
@@ -801,13 +797,8 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 * [localshop](https://github.com/jazzband/localshop) - Local PyPI server (custom packages and auto-mirroring of pypi).
 * [warehouse](https://github.com/pypa/warehouse) - Next generation Python Package Repository (PyPI).
 
-## Penetration Testing
+audio
 
-*Frameworks and tools for penetration testing.*
-
-* [fsociety](https://github.com/Manisso/fsociety) - A Penetration testing framework.
-* [setoolkit](https://github.com/trustedsec/social-engineer-toolkit) - A toolkit for social engineering.
-* [sqlmap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool.
 
 ## Permissions
 
@@ -970,7 +961,6 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 ## Static Site Generator
 
 *Static site generator is a software that takes some text + templates as input and produces HTML files on the output.*
-
 * [lektor](https://github.com/lektor/lektor) - An easy to use static CMS and blog engine.
 * [mkdocs](https://github.com/mkdocs/mkdocs/) - Markdown friendly documentation generator.
 * [makesite](https://github.com/sunainapai/makesite) - Simple, lightweight, and magic-free static site/blog generator (< 130 lines).
@@ -1021,27 +1011,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
     * [Schemathesis](https://github.com/kiwicom/schemathesis) - A tool for automatic property-based testing of web applications built with Open API / Swagger specifications.
     * [Selenium](https://pypi.org/project/selenium/) - Python bindings for [Selenium](http://www.seleniumhq.org/) WebDriver.
     * [sixpack](https://github.com/seatgeek/sixpack) - A language-agnostic A/B Testing framework.
-    * [splinter](https://github.com/cobrateam/splinter) - Open source tool for testing web applications.
-* Mock
-    * [doublex](https://pypi.org/project/doublex/) - Powerful test doubles framework for Python.
-    * [freezegun](https://github.com/spulec/freezegun) - Travel through time by mocking the datetime module.
-    * [httmock](https://github.com/patrys/httmock) - A mocking library for requests for Python 2.6+ and 3.2+.
-    * [httpretty](https://github.com/gabrielfalcao/HTTPretty) - HTTP request mock tool for Python.
-    * [mock](https://docs.python.org/3/library/unittest.mock.html) - (Python standard library) A mocking and patching library.
-    * [mocket](https://github.com/mindflayer/python-mocket) - A socket mock framework with gevent/asyncio/SSL support.
-    * [responses](https://github.com/getsentry/responses) - A utility library for mocking out the requests Python library.
-    * [VCR.py](https://github.com/kevin1024/vcrpy) - Record and replay HTTP interactions on your tests.
-* Object Factories
-    * [factory_boy](https://github.com/FactoryBoy/factory_boy) - A test fixtures replacement for Python.
-    * [mixer](https://github.com/klen/mixer) - Another fixtures replacement. Supports Django, Flask, SQLAlchemy, Peewee and etc.
-    * [model_mommy](https://github.com/vandersonmota/model_mommy) - Creating random fixtures for testing in Django.
-* Code Coverage
-    * [coverage](https://pypi.org/project/coverage/) - Code coverage measurement.
-* Fake Data
-    * [fake2db](https://github.com/emirozer/fake2db) - Fake database generator.
-    * [faker](https://github.com/joke2k/faker) - A Python package that generates fake data.
-    * [mimesis](https://github.com/lk-geimfari/mimesis) - is a Python library that help you generate fake data.
-    * [radar](https://pypi.org/project/radar/) - Generate random datetime / time.
+    * [splinter](https://github.com/cobrateam/splinter) - Open source tool for testing web applications.* Mt/radar/) - Generaterandom datetime / time.
 
 ## Text Processing
 
@@ -1062,17 +1032,8 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
     * [awesome-slugify](https://github.com/dimka665/awesome-slugify) - A Python slugify library that can preserve unicode.
     * [python-slugify](https://github.com/un33k/python-slugify) - A Python slugify library that translates unicode to ASCII.
     * [unicode-slugify](https://github.com/mozilla/unicode-slugify) - A slugifier that generates unicode slugs with Django as a dependency.
-* Unique identifiers
-    * [hashids](https://github.com/davidaurelio/hashids-python) - Implementation of [hashids](http://hashids.org) in Python.
-    * [shortuuid](https://github.com/skorokithakis/shortuuid) - A generator library for concise, unambiguous and URL-safe UUIDs.
-* Parser
-    * [ply](https://github.com/dabeaz/ply) - Implementation of lex and yacc parsing tools for Python.
-    * [pygments](http://pygments.org/) - A generic syntax highlighter.
-    * [pyparsing](https://github.com/pyparsing/pyparsing) - A general purpose framework for generating parsers.
-    * [python-nameparser](https://github.com/derek73/python-nameparser) - Parsing human names into their individual components.
-    * [python-phonenumbers](https://github.com/daviddrysdale/python-phonenumbers) - Parsing, formatting, storing and validating international phone numbers.
-    * [python-user-agents](https://github.com/selwin/python-user-agents) - Browser user agent parser.
-    * [sqlparse](https://github.com/andialbrecht/sqlparse) - A non-validating SQL parser.
+mbers](https://github.com/daviddrysdale/python-phonenumbers) - Parsing, formatting, storing and validating international phone numbers.
+    * python-user-agents](https://github.com/selwin/python-user-agents) - Browser user agent parssqlparse](https://github.com/andialbrecht/sqlparse) - A non-validating SQL parser.
 
 ## Third-party APIs
 
@@ -1116,25 +1077,13 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 * [webassets](https://github.com/miracle2k/webassets) - Bundles, optimizes, and manages unique cache-busting URLs for static resources.
 
 ## Web Content Extracting
-
-*Libraries for extracting web contents.*
-
-* [html2text](https://github.com/Alir3z4/html2text) - Convert HTML to Markdown-formatted text.
-* [lassie](https://github.com/michaelhelmick/lassie) - Web Content Retrieval for Humans.
-* [micawber](https://github.com/coleifer/micawber) - A small library for extracting rich content from URLs.
-* [newspaper](https://github.com/codelucas/newspaper) - News extraction, article extraction and content curation in Python.
-* [python-readability](https://github.com/buriy/python-readability) - Fast Python port of arc90's readability tool.
-* [requests-html](https://github.com/psf/requests-html) - Pythonic HTML Parsing for Humans.
-* [sumy](https://github.com/miso-belica/sumy) - A module for automatic summarization of text documents and HTML pages.
-* [textract](https://github.com/deanmalmgren/textract) - Extract text from any document, Word, PowerPoint, PDFs, etc.
-* [toapi](https://github.com/gaojiuli/toapi) - Every web site provides APIs.
+b.com/deanmalmgren/textract) - Extract text from any document, Word, PowerPoint, PDFs, etc.ñ*toapi](https://github.com/gaojiuli/toapi) - Every web site provides APIs.
 
 ## Web Crawling
 
 *Libraries to automate web scraping.*
 
-* [feedparser](https://github.com/kurtmckee/feedparser) - Universal feed parser.
-* [grab](https://github.com/lorien/grab) - Site scraping framework.
+* [feedparser](https://github.com/kurtmckee/feedparser) - Universal feed parser.* [grab](https://github.com/lorien/grab) - Site scraping framework.
 * [mechanicalsoup](https://github.com/MechanicalSoup/MechanicalSoup) - A Python library for automating interaction with websites.
 * [scrapy](https://github.com/scrapy/scrapy) - A fast high-level screen scraping and web crawling framework.
 
